@@ -92,6 +92,18 @@ public class Main {
 }
 ```
 
+### Output
+Here is the output of running the code:
+
+```console
+Malawi is a developing country with its capital in Lilongwe, 
+a population of approximately 17,000,000, 
+and primarily exports Tobacco.
+
+Malawi, with its capital in Lilongwe, 
+has a population of approximately 17,000,000.
+```
+
 ### Summary
 This example illustrates:
 - Inheritance: `DevelopingCountry` inherits from `Country`.
