@@ -105,8 +105,8 @@ has a population of approximately 17,000,000.
 ```
 This output demonstrates:
 
-Method Overriding: The first block is from the overridden `displayInfo()` method in the `DevelopingCountry` class.
-Superclass Method Access: The second block is from the `Country` class's `displayInfo()` method, accessed via `super.displayInfo()` in `displayParentInfo()`.
+- Method Overriding: The first block is from the overridden `displayInfo()` method in the `DevelopingCountry` class.
+- Superclass Method Access: The second block is from the `Country` class's `displayInfo()` method, accessed via `super.displayInfo()` in `displayParentInfo()`.
 
 ### Summary
 This example illustrates:
