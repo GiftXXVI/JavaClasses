@@ -101,7 +101,7 @@ it has a population of approximately 17,000,000,
 and primarily exports Tobacco.
 
 Malawi, with its capital in Lilongwe, 
-it has a population of approximately 17,000,000.
+has a population of approximately 17,000,000.
 ```
 This output demonstrates:
 
