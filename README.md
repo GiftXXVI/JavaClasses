@@ -97,11 +97,11 @@ When the program is executed, it produces the following output:
 
 ```shell
 Malawi is a developing country with its capital in Lilongwe, 
-a population of approximately 17,000,000, 
+it has a population of approximately 17,000,000, 
 and primarily exports Tobacco.
 
 Malawi, with its capital in Lilongwe, 
-has a population of approximately 17,000,000.
+it has a population of approximately 17,000,000.
 ```
 This output demonstrates:
 
