@@ -1,5 +1,5 @@
 # JavaClasses
-Illustration of inheritance with classes Country and DevelopingCountry.
+Illustration of inheritance with classes `Country` and `DevelopingCountry`.
 ## Imports
 Here are the two libraries that are imported.
 ```Java
@@ -7,7 +7,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 ```
 ## Classes
-There are two classes; Country and DevelopingCountry.
+There are two classes; `Country` and `DevelopingCountry`.
 ### Country Class
 ```Java
 class Country{
@@ -76,7 +76,7 @@ class DevelopingCountry extends Country{
 }
 ```
 ### Demo
-Here is a simple program that demonstrates creating an instance of DevelopingCountry and calls some of its methods.
+Here is a simple program that demonstrates creating an instance of `DevelopingCountry` and calls some of its methods.
 ```Java
 public class Main {
   public static void main(String[] args) {
