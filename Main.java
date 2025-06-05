@@ -30,7 +30,7 @@ class Country{
     public void displayInfo(){
         String countryTemplate = """
         {country}, with its capital in {capital}, 
-        it has a population of approximately {population}.
+        has a population of approximately {population}.
         """;
         String countryInfo = countryTemplate.replace("{country}", this.getName()).replace("{capital}", this.getCapital()).replace("{population}", this.getPopulation());
         System.out.println(countryInfo);
