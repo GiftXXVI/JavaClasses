@@ -10,7 +10,7 @@ import java.util.Locale;
 There are two classes; `Country` and `DevelopingCountry`.
 There are two classes in this example:
 1. `Country` – A base class representing a general country.
-2. `DevelopingCountry` – A subclass that extends Country and adds specific attributes.
+2. `DevelopingCountry` – A subclass that extends `Country` and adds specific attributes.
 ### Country Class
 This class defines the basic properties and behaviors of a country:
 ```Java
@@ -50,7 +50,7 @@ class Country{
 }
 ```
 ### Developing Country Class
-This subclass adds a new attribute, mainExport, and overrides the displayInfo() method to include it:
+This subclass adds a new attribute, `mainExport`, and overrides the `displayInfo()` method to include it:
 ```Java
 class DevelopingCountry extends Country{
     private String mainExport;
@@ -94,7 +94,7 @@ public class Main {
 
 ### Summary
 This example illustrates:
-- Inheritance: DevelopingCountry inherits from Country.
-- Method Overriding: displayInfo() is overridden to provide more specific output.
+- Inheritance: `DevelopingCountry` inherits from `Country`.
+- Method Overriding: `displayInfo()` is overridden to provide more specific output.
 - Encapsulation: Fields are accessed through getter methods.
-- Formatting: Population is formatted using NumberFormat for readability.
+- Formatting: `Country.population` is formatted using `NumberFormat` for readability.
